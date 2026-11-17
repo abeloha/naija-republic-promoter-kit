@@ -1,0 +1,615 @@
+{
+ "your-ward": [
+  {
+   "file": "01-street.jpg",
+   "caption": "Your ward, live",
+   "name": "Odogwu"
+  },
+  {
+   "file": "02-wide.jpg",
+   "caption": "The wider street",
+   "name": "Odogwu"
+  },
+  {
+   "file": "03-status.jpg",
+   "caption": "Status and places",
+   "name": "Odogwu"
+  }
+ ],
+ "your-phone": [
+  {
+   "file": "01-today.jpg",
+   "caption": "Phone: Today",
+   "name": "Chief"
+  },
+  {
+   "file": "02-work.jpg",
+   "caption": "Phone: Work",
+   "name": "Chief"
+  },
+  {
+   "file": "03-home.jpg",
+   "caption": "Phone: Home",
+   "name": "Chief"
+  },
+  {
+   "file": "04-travel.jpg",
+   "caption": "Phone: Travel",
+   "name": "Chief"
+  }
+ ],
+ "wallet-and-store": [
+  {
+   "file": "01-wallet.jpg",
+   "caption": "Your wallet",
+   "name": "Bankroll"
+  },
+  {
+   "file": "02-settings.jpg",
+   "caption": "Settings",
+   "name": "Bankroll"
+  }
+ ],
+ "naija-today": [
+  {
+   "file": "01-today.jpg",
+   "caption": "Naija Today: how the country is doing",
+   "name": "Analyst"
+  },
+  {
+   "file": "02-indicators.jpg",
+   "caption": "Indicators, with trends",
+   "name": "Analyst"
+  }
+ ],
+ "visit-places": [
+  {
+   "file": "01-map.jpg",
+   "caption": "The map of your ward",
+   "name": "Wanderer"
+  },
+  {
+   "file": "02-list.jpg",
+   "caption": "Find any place in the country",
+   "name": "Wanderer"
+  },
+  {
+   "file": "03-places.jpg",
+   "caption": "Places: landmarks, tours and sharing",
+   "name": "Wanderer"
+  },
+  {
+   "file": "04-landmark.jpg",
+   "caption": "A landmark: fares, tickets and tours",
+   "name": "Wanderer"
+  }
+ ],
+ "share-location": [
+  {
+   "file": "01-host-street.jpg",
+   "caption": "Gistmaster is in Yaba and wants friends to join",
+   "name": "Gistmaster"
+  },
+  {
+   "file": "02-join.jpg",
+   "caption": "A friend opens the link: \"Join them\"",
+   "name": "Gistmaster"
+  },
+  {
+   "file": "03-arrive.jpg",
+   "caption": "Taken straight to where they are",
+   "name": "Gistmaster"
+  }
+ ],
+ "invite-to-your-room": [
+  {
+   "file": "01-places.jpg",
+   "caption": "Places: share where you are, or invite someone home",
+   "name": "Landlord"
+  },
+  {
+   "file": "02-invite.jpg",
+   "caption": "Invite someone to visit: link, QR code and share",
+   "name": "Landlord"
+  },
+  {
+   "file": "03-visit-sheet.jpg",
+   "caption": "The guest opens the link and taps Visit",
+   "name": "Landlord"
+  },
+  {
+   "file": "04-inside.jpg",
+   "caption": "Walking into the host’s room",
+   "name": "Landlord"
+  },
+  {
+   "file": "05-host-sees.jpg",
+   "caption": "The host sees who came in",
+   "name": "Landlord"
+  }
+ ],
+ "meet-people": [
+  {
+   "file": "01-street.jpg",
+   "caption": "Two players meet on the street",
+   "name": "Gistlord"
+  },
+  {
+   "file": "02-nearby.jpg",
+   "caption": "Nearby: who is around you",
+   "name": "Gistlord"
+  },
+  {
+   "file": "03-person.jpg",
+   "caption": "A player card: greet, gist, add, gift",
+   "name": "Gistlord"
+  },
+  {
+   "file": "04-emotes.jpg",
+   "caption": "Emotes and greetings",
+   "name": "Gistlord"
+  }
+ ],
+ "chat-and-calls": [
+  {
+   "file": "01-chats.jpg",
+   "caption": "Chats: messages, voice notes and calls",
+   "name": "Oluwa"
+  }
+ ],
+ "feed-and-gist": [
+  {
+   "file": "01-feed.jpg",
+   "caption": "The feed: what the republic is talking about",
+   "name": "Wahala"
+  },
+  {
+   "file": "02-composer.jpg",
+   "caption": "Post with hashtags",
+   "name": "Wahala"
+  }
+ ],
+ "vehicles": [
+  {
+   "file": "01-garage.jpg",
+   "caption": "Your garage: buy, rent, fuel and drive",
+   "name": "Boluwa"
+  },
+  {
+   "file": "02-garage-more.jpg",
+   "caption": "Pick a vehicle",
+   "name": "Boluwa"
+  }
+ ],
+ "games-hub": [
+  {
+   "file": "01-hub.jpg",
+   "caption": "The Games hub",
+   "name": "Jagajaga"
+  },
+  {
+   "file": "02-solo-and-tables.jpg",
+   "caption": "Solo games and tables",
+   "name": "Jagajaga"
+  },
+  {
+   "file": "03-more.jpg",
+   "caption": "Ludo, Whot, Dominoes, Ayo, Chess and more",
+   "name": "Jagajaga"
+  },
+  {
+   "file": "04-politics-games.jpg",
+   "caption": "Political games",
+   "name": "Jagajaga"
+  }
+ ],
+ "game-hop-hop-hustle": [
+  {
+   "file": "01-street-games.jpg",
+   "caption": "Street games with a daily run",
+   "name": "HopKing"
+  },
+  {
+   "file": "02-intro.jpg",
+   "caption": "Hop Hop Hustle: get ready",
+   "name": "HopKing"
+  },
+  {
+   "file": "03-play-1.jpg",
+   "caption": "Hop Hop Hustle in play",
+   "name": "HopKing"
+  },
+  {
+   "file": "04-play-2.jpg",
+   "caption": "Hop Hop Hustle in play",
+   "name": "HopKing"
+  },
+  {
+   "file": "05-play-3.jpg",
+   "caption": "Hop Hop Hustle in play",
+   "name": "HopKing"
+  },
+  {
+   "file": "21-dev-1.jpg",
+   "caption": "Hop Hop Hustle: the result card",
+   "name": "HopKing"
+  }
+ ],
+ "game-operation-eagle": [
+  {
+   "file": "01-street-games.jpg",
+   "caption": "Street games with a daily run",
+   "name": "Commander"
+  },
+  {
+   "file": "02-intro.jpg",
+   "caption": "Operation Eagle: get ready",
+   "name": "Commander"
+  },
+  {
+   "file": "03-play-1.jpg",
+   "caption": "Operation Eagle in play",
+   "name": "Commander"
+  },
+  {
+   "file": "04-play-2.jpg",
+   "caption": "Operation Eagle in play",
+   "name": "Commander"
+  },
+  {
+   "file": "05-play-3.jpg",
+   "caption": "Operation Eagle in play",
+   "name": "Commander"
+  },
+  {
+   "file": "11-dev-1.jpg",
+   "caption": "Operation Eagle: run, gun and bomb",
+   "name": "Commander"
+  },
+  {
+   "file": "12-dev-2.jpg",
+   "caption": "Operation Eagle: run, gun and bomb",
+   "name": "Commander"
+  },
+  {
+   "file": "13-dev-3.jpg",
+   "caption": "Operation Eagle: run, gun and bomb",
+   "name": "Commander"
+  }
+ ],
+ "game-pitch-rush": [
+  {
+   "file": "01-street-games.jpg",
+   "caption": "Street games with a daily run",
+   "name": "PitchBoss"
+  },
+  {
+   "file": "02-intro.jpg",
+   "caption": "Pitch Rush: get ready",
+   "name": "PitchBoss"
+  },
+  {
+   "file": "03-play-1.jpg",
+   "caption": "Pitch Rush in play",
+   "name": "PitchBoss"
+  },
+  {
+   "file": "04-play-2.jpg",
+   "caption": "Pitch Rush in play",
+   "name": "PitchBoss"
+  },
+  {
+   "file": "05-play-3.jpg",
+   "caption": "Pitch Rush in play",
+   "name": "PitchBoss"
+  },
+  {
+   "file": "11-dev-1.jpg",
+   "caption": "Pitch Rush: dribble, beat the keeper, score",
+   "name": "PitchBoss"
+  },
+  {
+   "file": "12-dev-2.jpg",
+   "caption": "Pitch Rush: dribble, beat the keeper, score",
+   "name": "PitchBoss"
+  },
+  {
+   "file": "13-dev-3.jpg",
+   "caption": "Pitch Rush: dribble, beat the keeper, score",
+   "name": "PitchBoss"
+  }
+ ],
+ "game-ayo": [
+  {
+   "file": "02-dev-1.jpg",
+   "caption": "Ayo: sow, capture, win",
+   "name": "AyoMaster"
+  },
+  {
+   "file": "03-dev-2.jpg",
+   "caption": "Ayo: sow, capture, win",
+   "name": "AyoMaster"
+  },
+  {
+   "file": "04-dev-3.jpg",
+   "caption": "Ayo: sow, capture, win",
+   "name": "AyoMaster"
+  }
+ ],
+ "game-danfo-conductor": [
+  {
+   "file": "01-intro.jpg",
+   "caption": "Danfo conductor: give the right change",
+   "name": "Conductor"
+  },
+  {
+   "file": "02-play-1.jpg",
+   "caption": "Danfo conductor: give the right change in play",
+   "name": "Conductor"
+  },
+  {
+   "file": "03-play-2.jpg",
+   "caption": "Danfo conductor: give the right change in play",
+   "name": "Conductor"
+  }
+ ],
+ "game-market-haggling": [
+  {
+   "file": "01-intro.jpg",
+   "caption": "Market haggling: bring the price down",
+   "name": "Haggler"
+  },
+  {
+   "file": "02-play-1.jpg",
+   "caption": "Market haggling: bring the price down in play",
+   "name": "Haggler"
+  },
+  {
+   "file": "03-play-2.jpg",
+   "caption": "Market haggling: bring the price down in play",
+   "name": "Haggler"
+  }
+ ],
+ "game-suya-rush": [
+  {
+   "file": "01-intro.jpg",
+   "caption": "Suya stand rush: eight orders, exactly as asked",
+   "name": "SuyaDon"
+  },
+  {
+   "file": "02-play-1.jpg",
+   "caption": "Suya stand rush: eight orders, exactly as asked in play",
+   "name": "SuyaDon"
+  },
+  {
+   "file": "03-play-2.jpg",
+   "caption": "Suya stand rush: eight orders, exactly as asked in play",
+   "name": "SuyaDon"
+  }
+ ],
+ "game-daily-puzzles": [
+  {
+   "file": "01-intro.jpg",
+   "caption": "Daily puzzles: a new position every day",
+   "name": "Puzzler"
+  },
+  {
+   "file": "02-play-1.jpg",
+   "caption": "Daily puzzles: a new position every day in play",
+   "name": "Puzzler"
+  },
+  {
+   "file": "03-play-2.jpg",
+   "caption": "Daily puzzles: a new position every day in play",
+   "name": "Puzzler"
+  }
+ ],
+ "game-road-race": [
+  {
+   "file": "01-intro.jpg",
+   "caption": "Road race: pick a road and a car",
+   "name": "Speedo"
+  },
+  {
+   "file": "02-play-1.jpg",
+   "caption": "Road race: pick a road and a car in play",
+   "name": "Speedo"
+  },
+  {
+   "file": "03-play-2.jpg",
+   "caption": "Road race: pick a road and a car in play",
+   "name": "Speedo"
+  }
+ ],
+ "voter-card": [
+  {
+   "file": "01-room.jpg",
+   "caption": "Get your voter card to take part",
+   "name": "Mandate"
+  },
+  {
+   "file": "02-sheet.jpg",
+   "caption": "Voter card: register and join the queue",
+   "name": "Mandate"
+  },
+  {
+   "file": "03-card.jpg",
+   "caption": "Your voter card",
+   "name": "Mandate"
+  }
+ ],
+ "run-for-office": [
+  {
+   "file": "01-street.jpg",
+   "caption": "The ward street with the by-election strip",
+   "name": "Presido"
+  },
+  {
+   "file": "02-road-to-office.jpg",
+   "caption": "Your road to office",
+   "name": "Presido"
+  },
+  {
+   "file": "03-party.jpg",
+   "caption": "Pick a party",
+   "name": "Presido"
+  },
+  {
+   "file": "04-promises.jpg",
+   "caption": "Choose your promises",
+   "name": "Presido"
+  },
+  {
+   "file": "05-declare.jpg",
+   "caption": "Ready to declare",
+   "name": "Presido"
+  },
+  {
+   "file": "06-declared.jpg",
+   "caption": "You have declared",
+   "name": "Presido"
+  }
+ ],
+ "campaigning": [
+  {
+   "file": "01-street.jpg",
+   "caption": "The campaign is on: strip on the street",
+   "name": "TheDon"
+  },
+  {
+   "file": "02-actions.jpg",
+   "caption": "The Actions menu: everything open to you right now",
+   "name": "TheDon"
+  },
+  {
+   "file": "03-campaign.jpg",
+   "caption": "Your campaign: the ballot and your visibility",
+   "name": "TheDon"
+  },
+  {
+   "file": "04-ballot.jpg",
+   "caption": "The race here: every candidate on the ballot",
+   "name": "TheDon"
+  },
+  {
+   "file": "05-my-campaign.jpg",
+   "caption": "My campaign: share your poster and book rallies",
+   "name": "TheDon"
+  },
+  {
+   "file": "06-my-campaign-2.jpg",
+   "caption": "Your visibility grows as the ward sees you",
+   "name": "TheDon"
+  },
+  {
+   "file": "07-poster.jpg",
+   "caption": "Share your poster to WhatsApp, X, Instagram and TikTok",
+   "name": "TheDon"
+  }
+ ],
+ "rallies": [
+  {
+   "file": "01-rallies.jpg",
+   "caption": "Rallies in your ward",
+   "name": "KingMaker"
+  },
+  {
+   "file": "02-book.jpg",
+   "caption": "Choose where, how big and when",
+   "name": "KingMaker"
+  },
+  {
+   "file": "03-booked.jpg",
+   "caption": "Rally booked",
+   "name": "KingMaker"
+  }
+ ],
+ "vote": [
+  {
+   "file": "01-strip.jpg",
+   "caption": "Polls are open: Vote now",
+   "name": "Votemaster"
+  },
+  {
+   "file": "02-polling-unit.jpg",
+   "caption": "At the polling unit",
+   "name": "Votemaster"
+  },
+  {
+   "file": "03-ballot.jpg",
+   "caption": "The voting booth: every candidate on your ballot",
+   "name": "Votemaster"
+  },
+  {
+   "file": "04-pick.jpg",
+   "caption": "Pick a candidate",
+   "name": "Votemaster"
+  },
+  {
+   "file": "05-confirm.jpg",
+   "caption": "Confirm: secret and final",
+   "name": "Votemaster"
+  },
+  {
+   "file": "06-receipt.jpg",
+   "caption": "Your vote is cast. It is secret.",
+   "name": "Votemaster"
+  }
+ ],
+ "results": [
+  {
+   "file": "01-strip.jpg",
+   "caption": "Results are in",
+   "name": "OgaBoss"
+  },
+  {
+   "file": "02-result.jpg",
+   "caption": "The result: who won and by how many votes",
+   "name": "OgaBoss"
+  },
+  {
+   "file": "03-count.jpg",
+   "caption": "The count",
+   "name": "OgaBoss"
+  }
+ ],
+ "president": [
+  {
+   "file": "01-actions.jpg",
+   "caption": "The Actions menu with the presidency on it",
+   "name": "Excellency"
+  },
+  {
+   "file": "02-powers.jpg",
+   "caption": "Federal budget, laws, ministers and programmes",
+   "name": "Excellency"
+  },
+  {
+   "file": "03-fuel.jpg",
+   "caption": "Set the fuel subsidy for the whole republic",
+   "name": "Excellency"
+  },
+  {
+   "file": "04-programmes.jpg",
+   "caption": "Start a programme: cheaper fares, lights, roads",
+   "name": "Excellency"
+  }
+ ],
+ "calendar": [
+  {
+   "file": "01-calendar.jpg",
+   "caption": "The political calendar",
+   "name": "WardBoss"
+  },
+  {
+   "file": "02-calendar-more.jpg",
+   "caption": "Every stage, with dates",
+   "name": "WardBoss"
+  },
+  {
+   "file": "03-season.jpg",
+   "caption": "The season sheet",
+   "name": "WardBoss"
+  }
+ ]
+}
